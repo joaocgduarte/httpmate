@@ -1,0 +1,11 @@
+editor: vim
+collectionDirectory: /home/username/.config/httpmate/collections
+temporaryFilesDirectory: /home/username/.config/httpmate/tmp
+alwaysEditBody: true
+alwaysEditDomain: false
+alwaysEditPath: false
+alwaysEditQueryParams: false
+alwaysEditHeaders: false
+alwaysEditMethod: false
+alwaysEditContentType: false
+alwaysEditAll: false
